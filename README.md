@@ -1,13 +1,7 @@
 # Demographic-Trend-and-Migration-Analysis
 
 ## 👩‍💻 Project Overview
-This project analyzes population trends and net migration patterns across five South Asian countries:
-•	India
-•	Pakistan
-•	Bangladesh
-•	Afghanistan
-•	Sri Lanka
-This include exploratory data analysis and Power BI visualizations to uncover demographic insights, migration flows, and correlations between population size and migration.
+This project analyzes population trends and net migration patterns across five South Asian countries: India, Pakistan, Bangladesh, Afghanistan, Sri Lanka. This include exploratory data analysis and Power BI visualizations to uncover demographic insights, migration flows, and correlations between population size and migration.
 
 ## 📂 Dataset
 - Records: 320
