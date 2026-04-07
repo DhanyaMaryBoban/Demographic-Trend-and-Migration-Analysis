@@ -1,0 +1,2 @@
+# Demographic-Trend-and-Migration-Analysis
+This explores population trends and net migration patterns across certain South Asian countries. The findings highlight consistent population growth, negative net migration across all countries &amp; weak correlation between population size &amp; migration. The region emerges as a source of emigrants globally, due to economic, social &amp; political factors.
